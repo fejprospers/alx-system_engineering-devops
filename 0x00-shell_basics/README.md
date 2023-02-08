@@ -1,0 +1,1 @@
+0x00-shell_basics this project is about shell basics including navigation, file system, file manipulation, shortcuts and so on each script in this project will be an executable file using chmod u+x command
