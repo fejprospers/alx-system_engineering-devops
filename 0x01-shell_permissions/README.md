@@ -1,5 +1,2 @@
 0x01-shell_permissions 
-This project is focused on Shell and permissions
-This project can be used to understand how shell and permissions work generally
-Each script on this project shows the command line to modify file access rights, to change the user of a fil or folder temporarily, to change file ownership and to change file group ownership
-This project can be helpful to know how to write executable scripts that will do the aforementioned.
+This project is focused on Shell and permissions This project can be used to understand how shell and permissions work generally Each script on this project shows the command line to modify file access rights, to change the user of a fil or folder temporarily, to change file ownership and to change file group ownership This project can be helpful to know how to write executable scripts that will do the aforementioned.
